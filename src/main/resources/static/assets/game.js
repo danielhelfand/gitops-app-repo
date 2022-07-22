@@ -127,7 +127,7 @@
                 currObject.destroy();
 
                 objectText.text="";
-                scoreText.text = "Score: ".concat(gameScore += 100);
+                scoreText.text = "Score: ".concat(gameScore += 10);
             } else {
                 // The player missed the target and should be penalized with a deduction in score
                 scoreText.text = "Score: ".concat(gameScore -= 50);
