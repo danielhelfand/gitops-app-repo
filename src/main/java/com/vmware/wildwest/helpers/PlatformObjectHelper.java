@@ -1,6 +1,6 @@
-package com.demo.wildwest.helpers;
+package com.vmware.wildwest.helpers;
 
-import com.demo.wildwest.models.PlatformObject;
+import com.vmware.wildwest.models.PlatformObject;
 import io.kubernetes.client.openapi.ApiClient;
 import io.kubernetes.client.openapi.Configuration;
 import io.kubernetes.client.openapi.apis.CoreV1Api;

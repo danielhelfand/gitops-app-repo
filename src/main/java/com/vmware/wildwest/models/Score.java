@@ -1,4 +1,4 @@
-package com.demo.wildwest.models;
+package com.vmware.wildwest.models;
 
 public class Score {
 
