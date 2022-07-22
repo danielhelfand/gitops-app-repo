@@ -1,4 +1,4 @@
-package com.vmware.wildwest.models;
+package com.demo.wildwest.models;
 
 import java.util.Hashtable;
 

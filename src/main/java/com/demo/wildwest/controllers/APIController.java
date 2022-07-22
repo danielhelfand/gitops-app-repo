@@ -1,11 +1,11 @@
-package com.vmware.wildwest.controllers;
+package com.demo.wildwest.controllers;
 
 import java.util.List;
 
-import com.vmware.wildwest.helpers.PlatformObjectHelper;
-import com.vmware.wildwest.models.Game;
-import com.vmware.wildwest.models.PlatformObject;
-import com.vmware.wildwest.models.Score;
+import com.demo.wildwest.helpers.PlatformObjectHelper;
+import com.demo.wildwest.models.Game;
+import com.demo.wildwest.models.PlatformObject;
+import com.demo.wildwest.models.Score;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
